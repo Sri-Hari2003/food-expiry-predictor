@@ -34,15 +34,15 @@ dataset/
 ## Machine Learning Model
 The repository includes Python code for training a robust machine learning model to classify fresh and expired fruits and vegetables. The model is a convolutional neural network (CNN) implemented using TensorFlow and Keras. We provide a pre-trained model ready for use.
 
-# Pre-trained Model
+### Pre-trained Model
 cnnmodel.h5: A pre-trained CNN model for classifying fresh and expired items. This model has been trained on the provided dataset and can be used for your own classification tasks.
-# Usage Example
+### Usage Example
 You can utilize the pre-trained model to classify fresh and expired items in your own images. We offer code examples and guidance in the repository on how to use the model effectively.
 
 ## Expiration Date Prediction
 In addition to classification, the repository also includes Python code for predicting the expiration date of a product based on its category and the purchase date. This prediction is made using a dataset that provides information about the average shelf life for different categories of products.
 
-# Dataset
+### Dataset
 dataset.xlsx: The dataset used for expiration date prediction. This dataset offers insights into the average shelf life (in days) for various product categories.
 Expiration Date Prediction Function
 We provide a Python function to predict the expiration date of a product. You can input the product's category and purchase date to get an estimate of its remaining shelf life or determine if it has already expired.
