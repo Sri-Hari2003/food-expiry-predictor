@@ -52,7 +52,7 @@ We provide a Python function to predict the expiration date of a product. You ca
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Sri-Hari2003/Fruit-and-Vegetable-Shelf-Life-Dataset.git
+   git clone https://github.com/Sri-Hari2003/food-expiry-predictor
    ```
 
 2. Install the required dependencies (ensure you have TensorFlow, scikit-learn, fuzzywuzzy, pandas, and other necessary packages installed).
